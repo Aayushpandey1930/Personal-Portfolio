@@ -1,29 +1,62 @@
-# Welcome to your Lovable project
+# Aayush Pandey — Portfolio
 
-This project was built with [Lovable](https://lovable.dev).
+A personal portfolio showcasing my work across product research, UI/UX design, and full-stack development. I enjoy understanding problems, shaping clear and engaging experiences, and bringing ideas to life with code.
 
-## Build with Lovable
+## About
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+I’m a Computer Science and Engineering student at PSIT, Kanpur. My interests include full-stack development, interface design, product thinking, and research. This portfolio brings together projects and experiments that reflect how I explore ideas and build digital experiences.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## Featured work
 
-## Development
+- **BigQuery Release Notes** — A searchable web app that makes BigQuery release updates easier to browse.
+- **TourAddict** — A travel and hospitality concept focused on local discoveries and more accessible experiences.
+- **Community Hero** — A hackathon project exploring how neighbours can surface and solve local problems.
+- **Sooch** — An editorial project combining research, fact-checking, and visual storytelling.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## Skills
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+- **Design:** UI/UX, wireframing, prototyping, visual design, and Figma
+- **Development:** HTML, CSS, JavaScript, React, Node.js, Express, Python, Flask, and SQL
+- **Problem-solving:** C++, data structures, algorithms, and research
 
 ## Built with
 
-- TanStack Start
-- TypeScript
 - React
-- Tailwind CSS
+- TypeScript
+- TanStack Start and TanStack Router
+- Tailwind CSS v4
+- Vite
+
+## Run locally
+
+You’ll need Node.js and npm.
+
+```bash
+git clone <your-repository-url>
+cd <repository-folder>
+npm install
+npm run dev
+```
+
+Open the local URL shown in your terminal.
+
+## Available scripts
+
+| Command | Description |
+| --- | --- |
+| `npm run dev` | Start the development server |
+| `npm run build` | Build the production app |
+| `npm run preview` | Preview the production build |
+| `npm run lint` | Check the code with ESLint |
+| `npm test` | Run the test suite |
+
+## Contact
+
+- **Email:** [aayupanvar20@gmail.com](mailto:aayupanvar20@gmail.com)
+- **LinkedIn:** [Aayush Pandey](https://www.linkedin.com/in/aayushpandey1930)
+- **GitHub:** [Aayushpandey1930](https://github.com/Aayushpandey1930)
+- **Instagram:** [@aayushpandey019](https://www.instagram.com/aayushpandey019/)
+
+---
+
+Thanks for visiting my portfolio.
