@@ -50,13 +50,5 @@ Open the local URL shown in your terminal.
 | `npm run lint` | Check the code with ESLint |
 | `npm test` | Run the test suite |
 
-## Contact
-
-- **Email:** [aayupanvar20@gmail.com](mailto:aayupanvar20@gmail.com)
-- **LinkedIn:** [Aayush Pandey](https://www.linkedin.com/in/aayushpandey1930)
-- **GitHub:** [Aayushpandey1930](https://github.com/Aayushpandey1930)
-- **Instagram:** [@aayushpandey019](https://www.instagram.com/aayushpandey019/)
-
----
 
 Thanks for visiting my portfolio.
